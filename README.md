@@ -8,7 +8,7 @@ First assignment for the class is a Simple Menu page which you can take a peek [
 
 - [Food, LLC](#) , 8th of March 2017, Istanbul
 
-Second assignment for the class is a simple responsive page with collapsed menu. Bootstrap is used. Take a look [here](https://uckuruslukopera.github.io/fend/mod3/)
+Second assignment for the class is a simple responsive page with collapsed menu. Bootstrap is used. Take a look [here](#)
 
 - [TBA](#)
 
