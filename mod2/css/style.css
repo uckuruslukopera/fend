@@ -19,11 +19,11 @@ p {
 h1 {
 	font-size: 1.75em;
 	color: #DF744A;
-	border: 3px solid black;
+	/*border: 3px solid black;*/
 	text-align: center;	
-	margin: 50px auto;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	margin: 20px auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .header-row{		
