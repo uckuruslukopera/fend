@@ -18,9 +18,13 @@ Second assignment with extra functionality. This one has 3 columns and menu link
 
 Third assignment for the class has some JavaScript coding in it. Open the console when you [take a peek](https://uckuruslukopera.github.io/fend/mod4/).
 
-- [TBA](#)
+- [chu's diner](https://uckuruslukopera.github.io/fend/mod5/)
 
-- [TBA](#)
+Fourth assignment is a version of the final project, which chooses that moment's special. [Click on](https://uckuruslukopera.github.io/fend/mod5/) Specials tile more than one. 
+
+- [CHU](https://uckuruslukopera.github.io/fend/chu/)
+
+Final project. 
 
 
 
